@@ -1,0 +1,10 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "keystone_electronics_3557-2")(type "KiCad")(uri "C:/Users/Juan Antonio/Mi unidad/PROYECTOS/01_Radio_GoBox/03_Boards/02_Libraries/02_Symbols/keystone_electronics_3557-2.kicad_sym")(options "")(descr ""))
+  (lib (name "XT60-M")(type "KiCad")(uri "C:/Users/Juan Antonio/Mi unidad/PROYECTOS/01_Radio_GoBox/03_Boards/02_Libraries/02_Symbols/XT60-M.kicad_sym")(options "")(descr ""))
+  (lib (name "B2B-PH-K-S")(type "KiCad")(uri "C:/Users/Juan Antonio/Mi unidad/PROYECTOS/01_Radio_GoBox/03_Boards/02_Libraries/02_Symbols/B2B-PH-K-S.kicad_sym")(options "")(descr ""))
+  (lib (name "bosh_0986ah0304")(type "KiCad")(uri "C:/Users/Juan Antonio/Mi unidad/PROYECTOS/01_Radio_GoBox/03_Boards/02_Libraries/02_Symbols/bosh_0986ah0304.kicad_sym")(options "")(descr ""))
+  (lib (name "61300211121")(type "KiCad")(uri "C:/Users/Juan Antonio/Mi unidad/PROYECTOS/01_Radio_GoBox/03_Boards/02_Libraries/02_Symbols/61300211121.kicad_sym")(options "")(descr ""))
+  (lib (name "Energex8Logo")(type "KiCad")(uri "C:/Users/Juan Antonio/Mi unidad/PROYECTOS/01_Radio_GoBox/03_Boards/02_Libraries/02_Symbols/Energex8Logo.kicad_sym")(options "")(descr ""))
+  (lib (name "EA7LAULogo2")(type "KiCad")(uri "C:/Users/Juan Antonio/Mi unidad/PROYECTOS/01_Radio_GoBox/03_Boards/02_Libraries/02_Symbols/EA7LAULogo2.kicad_sym")(options "")(descr ""))
+)
