@@ -9514,7 +9514,7 @@
 	)
 	(symbol
 		(lib_id "EA7LAULogo2:LOGO")
-		(at 243.84 172.72 0)
+		(at 246.38 172.72 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9523,7 +9523,7 @@
 		(fields_autoplaced yes)
 		(uuid "17f10e01-07e1-49ee-b53a-25597bea8c2e")
 		(property "Reference" "#G2"
-			(at 243.84 148.3458 0)
+			(at 246.38 148.3458 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9532,7 +9532,7 @@
 			)
 		)
 		(property "Value" "LOGO"
-			(at 243.84 197.0942 0)
+			(at 246.38 197.0942 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9541,7 +9541,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 243.84 172.72 0)
+			(at 246.38 172.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9550,7 +9550,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 243.84 172.72 0)
+			(at 246.38 172.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9559,7 +9559,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 243.84 172.72 0)
+			(at 246.38 172.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20830,7 +20830,7 @@
 	)
 	(symbol
 		(lib_id "Energex8Logo:LOGO")
-		(at 200.66 173.99 0)
+		(at 203.2 173.99 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20839,7 +20839,7 @@
 		(fields_autoplaced yes)
 		(uuid "fbab6f2b-7a29-43f3-b6cb-a1a94944ad4a")
 		(property "Reference" "#G1"
-			(at 200.66 149.6158 0)
+			(at 203.2 149.6158 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20848,7 +20848,7 @@
 			)
 		)
 		(property "Value" "LOGO"
-			(at 200.66 198.3642 0)
+			(at 203.2 198.3642 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20857,7 +20857,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 200.66 173.99 0)
+			(at 203.2 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20866,7 +20866,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 200.66 173.99 0)
+			(at 203.2 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20875,7 +20875,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 200.66 173.99 0)
+			(at 203.2 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
